@@ -1,0 +1,10 @@
+.bottom-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: black;
+  flex-direction: column;
+  border-radius: 8px;
+  
+  text-shadow: 2px 2 px 3px rgba(0, 0, 0, 0.3);
+}

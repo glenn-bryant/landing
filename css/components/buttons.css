@@ -1,0 +1,14 @@
+.btn-banner {
+  background-color: #F4D06F;
+  color: #4C3905;
+  font-weight: 500;
+  border: 1px solid #4C3905;
+  padding: 10px 20px;
+  border-radius: 4px;]
+  transition: 0.3s;
+}
+
+.btn-banner:hover {
+  background-color: #F3C853;
+  border: 1px solid #4C3905;
+}
